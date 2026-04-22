@@ -1,13 +1,13 @@
-# Tushar Pujara Paramount Tutorials
+# GNCC Institute Of Commerce
 
-Professional website for Tushar Pujara Paramount Tutorials, based in Dugri Phase 2, Ludhiana.
+Professional website for GNCC Institute Of Commerce, based in Model Town, Ludhiana.
 
 ## Features
-- **Mathematics Specialist**: Focused content for Maths Tutorials.
-- **Legacy**: Established since 2012.
-- **Premium Design**: Modern glassmorphic UI with dark/light mode support.
-- **Interactive**: WhatsApp integration for enquiries, automated testimonials carousel, and reveal animations.
+- **Commerce Specialist**: Focused content for Accounts, Economics, and Business Studies.
+- **Legacy**: Established since 1990 (35+ years of excellence).
+- **Premium Design**: Emerald & Navy 'Growth' themed UI with glassmorphism.
+- **Interactive**: WhatsApp integration for Commerce admissions, automated testimonials carousel, and reveal animations.
 
 ## Contact
-- **Phone**: +91 70419 53570
-- **Address**: Building 1395 1st Floor, Dugri Phase 2, Near By Drum Wala Chowk, Ludhiana-141013, Punjab
+- **Phone**: +91 98144 40429
+- **Address**: Booth Number 41, Near Model Town Extention, New Krishna Mandir, Tution Market, Model Town, Ludhiana-141002, Punjab

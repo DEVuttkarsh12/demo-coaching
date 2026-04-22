@@ -1,9 +1,9 @@
 const CONFIG = {
-  phoneE164: "+917041953570",
-  displayPhone: "+91 70419 53570",
-  whatsappNumberE164NoPlus: "917041953570",
+  phoneE164: "+919814440429",
+  displayPhone: "+91 98144 40429",
+  whatsappNumberE164NoPlus: "919814440429",
   whatsappDefaultText:
-    "Hi Tushar Pujara Paramount Tutorials! I'm interested in Mathematics classes and want to know about batch timings and fees.",
+    "Hi GNCC Institute! I'm interested in Commerce classes for Class XI/XII and want to know about batch timings and admissions.",
 };
 
 function qs(sel, root = document) {
