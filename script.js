@@ -1,9 +1,9 @@
 const CONFIG = {
-  phoneE164: "+919876543210",
-  displayPhone: "+91 98765 43210",
-  whatsappNumberE164NoPlus: "919876543210",
+  phoneE164: "+917041953570",
+  displayPhone: "+91 70419 53570",
+  whatsappNumberE164NoPlus: "917041953570",
   whatsappDefaultText:
-    "Hi Ludhiana Excellence Coaching! I want to know about admissions, batch timings, and fees.",
+    "Hi Tushar Pujara Paramount Tutorials! I'm interested in Mathematics classes and want to know about batch timings and fees.",
 };
 
 function qs(sel, root = document) {

@@ -1,33 +1,13 @@
-# Ludhiana Excellence Coaching (Demo Website)
+# Tushar Pujara Paramount Tutorials
 
-Static, fast demo website for a coaching/tuition center with:
-- Courses list
-- Fee structure
-- Testimonials (carousel)
-- Admission form (client-side validation + opens WhatsApp with prefilled message)
-- Floating WhatsApp button
-- Light/Dark theme toggle
-- Scroll reveal animations
+Professional website for Tushar Pujara Paramount Tutorials, based in Dugri Phase 2, Ludhiana.
 
-## Run locally
+## Features
+- **Mathematics Specialist**: Focused content for Maths Tutorials.
+- **Legacy**: Established since 2012.
+- **Premium Design**: Modern glassmorphic UI with dark/light mode support.
+- **Interactive**: WhatsApp integration for enquiries, automated testimonials carousel, and reveal animations.
 
-From this folder:
-
-```bash
-python3 -m http.server 5173
-```
-
-Then open `http://localhost:5173`.
-
-## Update institute details
-
-Edit `script.js`:
-- `CONFIG.phoneE164`
-- `CONFIG.displayPhone`
-- `CONFIG.whatsappNumberE164NoPlus`
-- `CONFIG.whatsappDefaultText`
-
-Edit `index.html`:
-- Address text
-- Map embed (search query in the iframe `src`)
-
+## Contact
+- **Phone**: +91 70419 53570
+- **Address**: Building 1395 1st Floor, Dugri Phase 2, Near By Drum Wala Chowk, Ludhiana-141013, Punjab
