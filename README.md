@@ -1,13 +1,13 @@
-# GNCC Institute Of Commerce
+# Study Circle Academy
 
-Professional website for GNCC Institute Of Commerce, based in Model Town, Ludhiana.
+Professional website for Study Circle Academy, based in Sector 32, Ludhiana.
 
 ## Features
-- **Commerce Specialist**: Focused content for Accounts, Economics, and Business Studies.
-- **Legacy**: Established since 1990 (35+ years of excellence).
-- **Premium Design**: Emerald & Navy 'Growth' themed UI with glassmorphism.
-- **Interactive**: WhatsApp integration for Commerce admissions, automated testimonials carousel, and reveal animations.
+- **Maths & Science Specialist**: Focused content for Classes X and XII.
+- **Legacy**: Established since 2010 (14+ years of academic excellence).
+- **Premium Design**: Amber & Charcoal 'Focused' themed UI with circular branding.
+- **Interactive**: WhatsApp integration for admissions, automated testimonials carousel, and reveal animations.
 
 ## Contact
-- **Phone**: +91 98144 40429
-- **Address**: Booth Number 41, Near Model Town Extention, New Krishna Mandir, Tution Market, Model Town, Ludhiana-141002, Punjab
+- **Phone**: +91 98XXX XXXXX (Update in script.js)
+- **Address**: H.no 770, L I G Flats, Samrala Chownk, Sector 32, Ludhiana-141010, Punjab

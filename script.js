@@ -1,9 +1,9 @@
 const CONFIG = {
-  phoneE164: "+919814440429",
-  displayPhone: "+91 98144 40429",
-  whatsappNumberE164NoPlus: "919814440429",
+  phoneE164: "+919800000000",
+  displayPhone: "+91 98XXX XXXXX",
+  whatsappNumberE164NoPlus: "919800000000",
   whatsappDefaultText:
-    "Hi GNCC Institute! I'm interested in Commerce classes for Class XI/XII and want to know about batch timings and admissions.",
+    "Hi Study Circle Academy! I'm interested in Maths & Science classes for Class X/XII and want to know about batch timings.",
 };
 
 function qs(sel, root = document) {
