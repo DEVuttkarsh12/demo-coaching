@@ -1,9 +1,9 @@
 const CONFIG = {
-  phoneE164: "+919800000000",
-  displayPhone: "+91 98XXX XXXXX",
-  whatsappNumberE164NoPlus: "919800000000",
+  phoneE164: "+919888865328",
+  displayPhone: "+91 98888 65328",
+  whatsappNumberE164NoPlus: "919888865328",
   whatsappDefaultText:
-    "Hi Study Circle Academy! I'm interested in Maths & Science classes for Class X/XII and want to know about batch timings.",
+    "Hi Ntech Computer Education! I'm interested in professional courses and want to book a demo class.",
 };
 
 function qs(sel, root = document) {
